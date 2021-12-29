@@ -26,7 +26,7 @@ MAINTAINED BY :
 ## Installing Heroku 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ahirearyan2/HyperUserBot-X)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adeesha2008/HyperUserBot-X)
 
 Take Sting session from Replit
 [![Run on Repl.it](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://repl.it/@SenseiOfficial/String-Session-1)
